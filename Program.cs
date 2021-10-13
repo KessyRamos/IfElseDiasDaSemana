@@ -6,8 +6,6 @@ namespace IfElseDiasDaSemana
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTimeOffset.Now.Date);
-
             var mes = DateTime.Now.DayOfWeek;
 
             if (mes == DayOfWeek.Sunday)
