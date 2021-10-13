@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.exe
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.deps.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.runtimeconfig.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\ref\IfElseDiasDaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\bin\Debug\net5.0\IfElseDiasDaSemana.pdb
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\ref\IfElseDiasDaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.pdb
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElseDiasDaSemana\obj\Debug\net5.0\IfElseDiasDaSemana.genruntimeconfig.cache
