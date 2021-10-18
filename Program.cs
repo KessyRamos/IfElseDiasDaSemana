@@ -6,33 +6,33 @@ namespace IfElseDiasDaSemana
     {
         static void Main(string[] args)
         {
-            var mes = DateTime.Now.DayOfWeek;
+            var dia = DateTime.Now.DayOfWeek;
 
-            if (mes == DayOfWeek.Sunday)
+            if (dia == DayOfWeek.Sunday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Sunday}");
             }
-            else if (mes == DayOfWeek.Monday)
+            else if (dia == DayOfWeek.Monday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Monday}");
             }
-            else if (mes == DayOfWeek.Tuesday)
+            else if (dia == DayOfWeek.Tuesday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Tuesday}");
             }
-            else if (mes == DayOfWeek.Wednesday)
+            else if (dia == DayOfWeek.Wednesday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Wednesday}");
             }
-            else if (mes == DayOfWeek.Thursday)
+            else if (dia == DayOfWeek.Thursday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Thursday}");
             }
-            else if (mes == DayOfWeek.Friday)
+            else if (dia == DayOfWeek.Friday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Friday}");
             }
-            else if (mes == DayOfWeek.Saturday)
+            else if (dia == DayOfWeek.Saturday)
             {
                 Console.WriteLine($"Today is {DayOfWeek.Saturday}");
             }
